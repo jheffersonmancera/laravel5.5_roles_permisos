@@ -1,0 +1,2 @@
+-instalar laravel collective: https://laravelcollective.com/docs/master/html
+-instalar shinobi: https://github.com/caffeinated/shinobi
